@@ -1,0 +1,11 @@
+.alert {
+    background-color: rgb(255, 45, 45);
+    padding: 1rem;
+    width: 100%;
+    text-transform: uppercase;
+    border-radius: .5rem;
+    text-align: center;
+    font-weight: 900;
+    font-size: 1.4rem;
+    margin-bottom: 2rem;
+}
